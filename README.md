@@ -5,5 +5,6 @@
 [2023第28屆大專校院資訊應用服務創新競賽 佳作](https://github.com/ChingChingKao/Golf-AI-Coach/tree/main)
 # NTCIR
 [NTCIR Conference workshop](https://github.com/ChingChingKao/The-17th-NTCIR)
-# 大數據分析專題
-[Stroke Prediction](https://drive.google.com/drive/u/1/folders/1LhihAnLduW4dC3YViy6zSPXlpcBfAbqj)
+# 大數據分析專題Stroke Prediction
+[成果影片](https://drive.google.com/drive/u/1/folders/1LhihAnLduW4dC3YViy6zSPXlpcBfAbqj)
+[PPT](https://docs.google.com/presentation/d/1Sg3eXmIUAceH6Zu_JiJokxLYjv8S7XD9/edit?usp=drive_link&ouid=116672054544024698920&rtpof=true&sd=true)
