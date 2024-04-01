@@ -1,5 +1,5 @@
 # 這裡放置了所有作品、專案的連結
-# 2021 python project
+# 2021 python project-NCHU-Quiz Rangers 知識王之影像辨識版
 [2021中興資工python選修課 期末project](https://github.com/ChingChingKao/2021-python-project)
  # Golf-AI-Coach
 [2023第28屆大專校院資訊應用服務創新競賽 佳作](https://github.com/ChingChingKao/Golf-AI-Coach/tree/main)
